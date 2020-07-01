@@ -1,1 +1,0 @@
-# eight_queen_genetic
